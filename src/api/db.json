@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Hackathon",
+      "price": 150,
+      "description": "Un super hackathon de 24h",
+      "nbTickets": 100,
+      "img": "event1.jpg"
+    },
+    {
+      "id": "2ace",
+      "name": "festival-carthage-2025",
+      "price": "22",
+      "description": "JJJJ",
+      "nbTickets": "22",
+      "img": "l.jpg"
+    },
+    {
+      "id": "81a7",
+      "name": "festival-carthage-2025",
+      "price": "22",
+      "description": "KK",
+      "nbTickets": "22",
+      "img": "l.jpg"
+    },
+    {
+      "id": "bfb1",
+      "name": "festival-carthage-2025",
+      "price": "22",
+      "description": "sssss",
+      "nbTickets": "22",
+      "img": "l.jpg"
+    },
+    {
+      "id": "57e7",
+      "name": "festival-carthage-2025",
+      "price": "22",
+      "description": "lll",
+      "nbTickets": "22",
+      "img": "l.jpg"
+    },
+    {
+      "id": "7745",
+      "name": "festival-carthage-2025",
+      "price": "22",
+      "description": "",
+      "nbTickets": "22",
+      "img": "l.jpg"
+    }
+  ]
+}

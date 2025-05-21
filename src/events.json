@@ -1,0 +1,21 @@
+[
+    {
+      "name": "festival-carthage-2025",
+      "description": "festival-carthage-2025",
+      "img": "assets/festival-carthage-2025.jpg",
+      "price": 10,
+      "nbTickets": 5,
+      "nbParticipants": 0,
+      "like": false
+    },
+    {
+      "name": "Web Design Day",
+      "description": "Atelier de design UI/UX",
+      "img": "assets/thumbnail-optimize-4.jpg",
+      "price": 8,
+      "nbTickets": 0,
+      "nbParticipants": 25,
+      "like": true
+    }
+  ]
+  
